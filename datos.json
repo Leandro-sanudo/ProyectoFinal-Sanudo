@@ -1,0 +1,37 @@
+[
+    {"id":1 ,
+    "name":"Sensei, Kongetsu Dou Desu Ka" , 
+    "image": "Imagenes/Sensei.jpg" ,
+    "price": 300,
+    "info": "Murasaki tiene el poder de ver el futuro de la persona que toca. Como hija del casero, tiene que perseguir a Shijima Banri para que le pague el alquiler cada mes. Cada vez, el pobre autor Shijima le promete que pagará el alquiler en cuanto le publiquen y le paguen. Murasaki apoya tranquilamente su trabajo, porque ve que Shijima es la persona con la que está destinada a casarse."},
+    
+    {"id":2 ,
+    "name":"Hinata no Blue" ,
+    "image": "Imagenes/Hinata.jpg" ,
+    "price": 200,
+    "info": "La historia comienza con Hinata Naru entrando en el primer año de instituto. Siempre había sido una chica tranquila que sólo salía con sus amigos de la infancia, You-chan y Micchan, pero decidió cambiar su forma de ser al entrar en el instituto. Quería hacer muchos amigos nuevos, pero le resultaba difícil hacerlo debido a su timidez; sin embargo, su vida da un giro después de conocer al presidente del consejo estudiantil, Natsuno Sora, que se convierte en su primer amigo. Y también... ¿quizás algo más?"},
+
+    {"id":3 , 
+    "name":"The Young Master and The Maid" ,
+    "image": "Imagenes/YoungMaster.jpg" ,
+    "price": 250,
+    "info": "Esta historia comienza en un mundo de fantasía, ambientada en un país llamado Orihen. Es sobre la nueva sirviente de la familia quien tendrá que encargarse de un joven y problemático amo... ¿Como resultará las cosas para ella? ¿Será capaz de llegar a servirle? o Simplemente tirará la toalla ante la actitud de su joven Maestro..."},
+
+    {"id":4 ,
+    "name":"My Crush Forgot Her Glasses" ,
+    "image": "Imagenes/Glasses.jpg" ,
+    "price": 150,
+    "info": "Una historia simple pero agradable... Los dias normales de Komura-kun quien ayuda a su compañera Mie-san, la cual tiene que usar lentes y esta siempre termina olvidandolos o hay algun suceso que evite su visibilidad... Estos sucesos los llevaran a entablar una amistad y tambien podria llegar a ser... ¿Amor?"},
+
+    {"id":5 ,
+    "name":"La canción gris" ,
+    "image": "Imagenes/Gris.jpg" ,
+    "price": 200,
+    "info": "Kaede Amane acaba de perder a su madre, con la que vivía en Tokio, en un trágico accidente. A los pocos días descubre que su padre, al que creía muerto desde hacía años, en realidad sigue vivo y ha venido a hacerse cargo de él. Vivirán en su pueblo natal junto con su hermana. Kaede no recuerda nada de su vida anterior a Tokio, incluidos su padre, su hermana y su pueblo, en el que pronto descubrirá que ocurren cosas muy extrañas..."},
+
+    {"id":6 ,
+    "name":"Léviathan" ,
+    "image":"Imagenes/Leviathan.jpg" ,
+    "price": 500,
+    "info": "En las profundidades de la galaxia, el Leviatán, una enorme nave espacial, va a la deriva. Cuando unos saqueadores irrumpen en el barco, descubren el diario de un escolar, Kazuma, que relata los acontecimientos que tuvieron lugar en las entrañas de la nave... A medida que lo leen, queda claro que un superviviente de la catástrofe se esconde en algún lugar del laberinto de ruinas. En él explica por qué el viaje se convierte en una lucha por la supervivencia donde sólo puede quedar uno..."}
+]
